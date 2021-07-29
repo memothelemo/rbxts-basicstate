@@ -74,7 +74,7 @@ class Greeting extends Component<{}, State> {
  * BasicState store and inject the value of Hello into
  * the component state.
  */
-export default Store.Roact(Greeting, ["Hello"]);
+export default Store.Roact(Greeting, ["message"]);
 ```
 
 ## Documentation
