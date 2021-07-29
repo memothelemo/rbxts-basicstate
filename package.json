@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/basicstate",
-  "version": "1.0.2",
+  "version": "1.2.1",
   "main": "out/init.lua",
   "license": "MIT",
   "scripts": {
