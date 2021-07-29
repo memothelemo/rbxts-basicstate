@@ -4,7 +4,7 @@
 
 Well, I supposed to do that before [tech0tron](https://github.com/tech0tron/BasicState) makes one. Unfortunately, the types are not accurate, so I sent a [PR](https://github.com/tech0tron/BasicState/pull/3) to make changes.
 
-However, he doesn't seem to respond after waiting couple of weeks. Before this repository is created, one user (from roblox-ts discord server) reported that my forked repo is not working (I found out that he incorrectly install my fixed package and @rbxts/roact is now outdated.
+However, he doesn't seem to respond after waiting couple of weeks. Before this repository is created, one user (from roblox-ts discord server) reported that my forked repo is not working (I found out that he install incorrectly my fixed package and @rbxts/roact is now outdated.
 
 To avoid massive confusion, I decided to make a seperate repository for this until tech0tron decides to make changes to his own one.
 
