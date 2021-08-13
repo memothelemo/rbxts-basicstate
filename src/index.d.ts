@@ -12,7 +12,7 @@ type BasicStateNone = undefined & {
 };
 
 type SetStateType<T> = {
-	[index in keyof T]: BasicStateNone | T[keyof T];
+	[index in keyof T]: BasicStateNone | T[index];
 };
 
 interface State<T> {
