@@ -1,7 +1,7 @@
 {
   "name": "@rbxts/basicstate",
-  "version": "1.2.1",
-  "main": "out/init.lua",
+  "version": "1.2.2",
+  "main": "src/init.lua",
   "license": "MIT",
   "scripts": {
     "build": "rbxtsc",
@@ -16,9 +16,9 @@
   "bugs": {
 	  "url": "https://github.com/memothelemo/rbxts-basicstate/issues"
   },
-  "types": "out/index.d.ts",
+  "types": "src/index.d.ts",
   "files": [
-    "out"
+    "src"
   ],
   "publishConfig": {
     "access": "public"
